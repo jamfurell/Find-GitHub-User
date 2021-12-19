@@ -2,7 +2,7 @@
 
 
 The web application serves the purpose of a basic search query for a GitHub user using the GitHub API and then returns information about the queried user. 
-Project was created having no prior knowledge of experience with TypeScript.
+Project was created having no prior knowledge or experience with TypeScript.
 
 ## Available Scripts
 
